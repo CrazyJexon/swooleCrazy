@@ -1,5 +1,5 @@
 {
-  "name": "jc/jc-swoole",
+  "name": "jexon/jexon-swoole",
   "type": "project",
   "version": "1.0",
   "description": "A coroutine framework that focuses on speed and flexible, specifically use for build microservices and middlewares.",
