@@ -21,7 +21,7 @@ The easiest way to create a new Crazy project is to use Composer. If you don't h
 
 To create your new Crazy project:
 
-$ composer create-project hyperf/hyperf-skeleton path/to/install
+$ composer create-project jexon/jexon-swoole
 
 Once installed, you can run the server immediately using the command below.
 
